@@ -1,6 +1,6 @@
 # Entrepeneurship_Thoughts
 
-** This repository contains posts about entrepeneurship as part of FSE 301 **
+__This repository contains posts about entrepeneurship as part of FSE 301__
 
 Post 1:
 
