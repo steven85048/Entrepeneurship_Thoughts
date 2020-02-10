@@ -25,3 +25,11 @@ You may be wondering if you should investing time in order to learn how to engag
 An entrepreneurial mindset has incredibly positive effects for how one approaches general problems in the future both in one's future occupation and one's daily life. Whenever one encounters a problem, it is easy to simply brush it off as a given without much thought as to how one could create a valuable solution to such a problem. However, with an entrepreneurial mindset, one can look at problems from the perspective of someone actively looking for pain points that one could jump start a solution from. Instead of viewing problems as expected or given, one can start to actively give thought to how that problem set could be solved and how exactly solutions can provide significant value to others. With this, one has the tools to shape the world into however way that individual would envision the world should look.
 
 Link: https://vimeo.com/175119085
+
+Post 4:
+
+So you have a great idea, but now need to actually assemble the units necessary for building your new startup. What do you have to do now?
+
+One aspect that I am excited about is the process of building a capable team that can handle the different facets of covering all the bases of your new startup business. One of the interesting ideas that the article mentions is the importance of having a diverse idea-set within a team, which also necessitates having individuals with conflicting opinions. With this sort of communication, different team leads can fill in the weaknesses in character or knowledge that other team members may have. Having this dynamic in a team can propel a startup quickly.
+
+Link: https://playbook.samaltman.com/
