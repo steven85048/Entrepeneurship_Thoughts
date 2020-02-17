@@ -33,3 +33,11 @@ So you have a great idea, but now need to actually assemble the units necessary 
 One aspect that I am excited about is the process of building a capable team that can handle the different facets of covering all the bases of your new startup business. One of the interesting ideas that the article mentions is the importance of having a diverse idea-set within a team, which also necessitates having individuals with conflicting opinions. With this sort of communication, different team leads can fill in the weaknesses in character or knowledge that other team members may have. Having this dynamic in a team can propel a startup quickly.
 
 Link: https://playbook.samaltman.com/
+
+Post 5:
+
+When we develop a product to solve a problem, we often assume that we have more information and knowhow than we assume. However, this assumption can be deadly for actually creating something that matters.
+
+Despite one's best effort, it is incredibly difficult to consider every single perspective on a problem, since humans are inherently biased. We are more prone to considering perspectives that match our own opinions on subjects than those that contradict them. As a result, when considering any problem, we automatically look at the problem in our own unique light, focusing on the parts of the problem that we believe to be important to us. However, of course, that perspective may be different substantially if a business major is looking at the problem versus if a engineering major is examining the problem. These discrepancies highlight the importance of considering multiple perspectives -- it fills in the gaps of knowledge of some individuals with the strengths of others. 
+
+Link: https://vimeo.com/groups/204136/videos/76175907
