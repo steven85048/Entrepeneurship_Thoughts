@@ -41,3 +41,11 @@ When we develop a product to solve a problem, we often assume that we have more 
 Despite one's best effort, it is incredibly difficult to consider every single perspective on a problem, since humans are inherently biased. We are more prone to considering perspectives that match our own opinions on subjects than those that contradict them. As a result, when considering any problem, we automatically look at the problem in our own unique light, focusing on the parts of the problem that we believe to be important to us. However, of course, that perspective may be different substantially if a business major is looking at the problem versus if a engineering major is examining the problem. These discrepancies highlight the importance of considering multiple perspectives -- it fills in the gaps of knowledge of some individuals with the strengths of others. 
 
 Link: https://vimeo.com/groups/204136/videos/76175907
+
+Post 6:
+
+One important market research strategy that resonated with me is the necessity to "seek the devil's advocate." This is especially true for me since I always find myself biased with respect to how great my personal ideas are when, to others, the idea may not necessarily be as glamorous as it seems. I want to actively work to respond better to the criticism and, instead of taking it personally, internalizing the arguments are come up with ways to make my product better. One good approach that Chmouni mentions is, when describing the idea to others, describing the idea as one that your friend came up with instead of you. When placed in this position, your conversation partner may be more inclined to give harsher criticisms of the product since he or she may not think these criticize you directly. I think that this suggestion, combined with improvements in internalizing criticism, can help make this iterative process much more likely to result in a product that actually serves the needs of your customers.
+
+Obtaining feedback on your product can be hard, but it is extremely important in shaping your product into one that actually meets the needs of your customers.
+
+Link: https://vimeo.com/169252983
