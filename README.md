@@ -49,3 +49,12 @@ One important market research strategy that resonated with me is the necessity t
 Obtaining feedback on your product can be hard, but it is extremely important in shaping your product into one that actually meets the needs of your customers.
 
 Link: https://vimeo.com/169252983
+
+Post 7:
+
+An interesting innovation management tool is a business model canvas. Such tools can help your business win in in their specific industry.
+
+A big downfall of many startups is that they quickly lose sight of their core objectives and start to spend time and resources on things that do not project them towards a certain goal. As a result, they start to do many things in a very mediocre way, but do not focus on excelling at a few important things. As a result, competitors that do certain things better start to overtake them and they lose dominance in their respective field. Innovation management tools such as the business model canvas help guide businesses to focus on their core objectives by providing a user interface to siphon resources to the important things that matter. With these devices in place, employees and founders can use these tools as crutches whenever they determine whether a certain business action truly adds value to the product. 
+
+Link: https://www.youtube.com/watch?v=wwShFsSFb-Y
+
