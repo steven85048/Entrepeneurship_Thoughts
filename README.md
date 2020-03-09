@@ -58,3 +58,11 @@ A big downfall of many startups is that they quickly lose sight of their core ob
 
 Link: https://www.youtube.com/watch?v=wwShFsSFb-Y
 
+Post 8:
+
+It is always interesting to not only look at the startups who attract millions of users, but also the ones that fail miserably. One such article, attached at the bottom, describes how this may happen. 
+
+Many of the failures delineated in the article boil down to not respecting the difficulty of getting users to start the adoption of a new product in the first place. Many startups like to envision how successful their product is with an established and loyal customer base, but the process to establish that customer base can often be incredibly difficult. As a result, it is much better to be incredibly precise with a smaller group of customers and incrementally appeal to additional groups as the development process is underway. This takes the form of not only understanding the customer pains, but also the specific monetary costs of those pains and the amount that they are willing to spend in order to bypass those pains. 
+
+Link: https://innovationexcellence.com/blog/2019/08/13/business-model-rookie-mistakes/
+
