@@ -66,3 +66,10 @@ Many of the failures delineated in the article boil down to not respecting the d
 
 Link: https://innovationexcellence.com/blog/2019/08/13/business-model-rookie-mistakes/
 
+Post 9:
+
+The Dollar Shave Club is an incredibly successful company that advertised shipping razors to people for just a dollar a month. How did they get to this point?
+
+Michael Dubin's success was not necessarily from the superiority of his products, but rather the way that he was able to connect with his audience in order to antagonize the absurdly high prices of his competitors. In his video, he uses storytelling and comedy in order to present his no-bells-and-whistles product that provides the very minimal necessary service at a very cheap price. I think by presenting the topic in this method, he makes a very convincing argument why paying so much extra for features of a razor that are simply unnecessary is a waste of money, and why his service of a simply one dollar a month is a much better way of getting shaving done. As a result, he changes the way that public perception is towards razors.
+
+Link: https://www.npr.org/2018/12/14/676753908/live-episode-dollar-shave-club-michael-dubin
