@@ -73,3 +73,13 @@ The Dollar Shave Club is an incredibly successful company that advertised shippi
 Michael Dubin's success was not necessarily from the superiority of his products, but rather the way that he was able to connect with his audience in order to antagonize the absurdly high prices of his competitors. In his video, he uses storytelling and comedy in order to present his no-bells-and-whistles product that provides the very minimal necessary service at a very cheap price. I think by presenting the topic in this method, he makes a very convincing argument why paying so much extra for features of a razor that are simply unnecessary is a waste of money, and why his service of a simply one dollar a month is a much better way of getting shaving done. As a result, he changes the way that public perception is towards razors.
 
 Link: https://www.npr.org/2018/12/14/676753908/live-episode-dollar-shave-club-michael-dubin
+
+Post 10:
+
+When creating innovation, it is incredibly important to consider how the future world would potentially benefit from our solution. However, actually performing this prediction is rather difficult, but we can use current trends to give us hints to the right direction. One possible tool may be to use current themes as a basis.
+
+In the attached article, it describes twelve "mega themes" that it states will drive the future world. Some of these themes attached include automation, which is the usage of machines to perform many tasks that humans have traditionally performed, and connected living, which is the ability for an individual to stay connected with his or her peers all the time. By having information of these trends, innovators can make more informed decisions about what technologies to invest time to look into, since one being at the forefront of developing products in these frontiers will always be at an advantage. For example, if a clothing company sees that virtual reality may become more widespread in the future, they may start looking into VR technologies that allow users to try on different clothes in a virtual environment. 
+
+So always be on the lookout for emerging trends! You won't know which ones may materialize into something big.
+
+Link: https://www.forbes.com/sites/sarwantsingh/2019/08/28/the-twelve-mega-themes-that-will-drive-our-future-world/#298aa5e3249d
