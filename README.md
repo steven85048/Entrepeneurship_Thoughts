@@ -83,3 +83,13 @@ In the attached article, it describes twelve "mega themes" that it states will d
 So always be on the lookout for emerging trends! You won't know which ones may materialize into something big.
 
 Link: https://www.forbes.com/sites/sarwantsingh/2019/08/28/the-twelve-mega-themes-that-will-drive-our-future-world/#298aa5e3249d
+
+Post 11:
+
+One of the common assumptions that many people make about innovation is that it is only for startups -- the new up and coming companies creating value in new places that were never conceived of before. However, this thought is simply not true. Many existing companies too use the ideas of innovation in order to drive the continual production of value for their company.
+
+One such company is Amazon, founded by Jeff Bezos. One of the interesting things that Bezos does each year is write a message to shareholders about the lessons that he learned throughout the year that contributed to that year's success. One such takeaway was his 2016 message, which stated that it was important to "move fast and focus on outcomes." In this year's message, he stated the importance of not being held back by company beauracracy and be willing to make decisions as fast as startups. Specifically, whenever the company identifies a new space that is possible to generate additional value, the company must move fast before another competitor takes that place first. 
+
+These conclusions help even large existing companies create value as quickly as startups!
+
+Link: https://www.cbinsights.com/research/bezos-amazon-shareholder-letters/
