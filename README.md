@@ -93,3 +93,9 @@ One such company is Amazon, founded by Jeff Bezos. One of the interesting things
 These conclusions help even large existing companies create value as quickly as startups!
 
 Link: https://www.cbinsights.com/research/bezos-amazon-shareholder-letters/
+
+Post 12:
+
+Nowadays, the term "startup" has a bad rep. It is tied with the perception that a company scales up quickly, gets millions of customers, then quickly obtains high valuation with a product that is barely functional. Granted, many startups do start with the fast and scrappy approach, but continually doing something like this sets that company up very negatively in the longterm. For these startups, a very difficult transition is the one from the minimally viable product phase to a viable product. This comes with the necessity of coming to terms with the fact that it is important to start doing things the right way, instead of continually finding more shortcuts to solve the problems in the short-term.  In other words, make a service that people actually want, rather than make something that you think people want. Coming to this maturation as a company is incredibly important to do but also requires many pedagogical shifts in the process.
+
+Link: https://qz.com/work/1349238/the-lean-startup-is-an-unproductive-legend/
